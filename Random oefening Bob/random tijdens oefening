@@ -1,0 +1,2 @@
+if string_a != "":
+    print('string_a != ""')
